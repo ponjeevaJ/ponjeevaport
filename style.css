@@ -198,7 +198,7 @@ p{
     /*end of header section*/
     /*hero section*/
 #hero{
-    background-image: url(/photo-1551434678-e076c223a692.jpeg);
+    background-image: url(bg.avif);
     background-size: cover;
     background-position: top center;
     position: relative;
